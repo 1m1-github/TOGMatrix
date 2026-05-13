@@ -1,0 +1,8 @@
+name = "TOGMatrix"
+uuid = "d82a7266-ecbf-4de4-94ee-583468f75bc2"
+version = "1.0.0"
+authors = ["1m1 <imi@1m1.io>"]
+
+[deps]
+TOGColor = "f4cec632-eb7e-43bd-a4c1-cac080e970db"
+Adapt = "79e6a3ab-5dfb-504d-930d-738a2a938a0e"
