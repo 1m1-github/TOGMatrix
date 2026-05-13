@@ -1,6 +1,6 @@
 name = "TOGMatrix"
 uuid = "d82a7266-ecbf-4de4-94ee-583468f75bc2"
-version = "2.0.0"
+version = "3.0.0"
 authors = ["1m1 <imi@1m1.io>"]
 
 [deps]
